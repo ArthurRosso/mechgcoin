@@ -1,5 +1,6 @@
 import hashlib
 import time
+from block import Block
 
 class BlockChain:
 
